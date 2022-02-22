@@ -1,0 +1,1 @@
+print("my name is usama waheed and i am a computer engineer")
